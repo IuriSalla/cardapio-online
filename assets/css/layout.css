@@ -1,0 +1,22 @@
+*{
+	margin:0px;
+}
+body{
+	background-color:#f4f4f4;
+}
+h1{
+    text-align: center;
+    font-family: 'Cookie', cursive;
+    color: #6B8E23;
+}
+.cabecalho{
+	height:90px;
+}
+.card{
+	margin: 0px auto;
+	width: 100%;
+}
+.card-body{
+	background-color:#f4f4f4;
+}
+        
