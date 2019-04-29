@@ -2,7 +2,7 @@
     require 'lib/autoloader.php';
     mb_internal_encoding("UTF-8");
     date_default_timezone_set('America/Sao_Paulo');
-    /*try
+    try
     {
         Db::connect('localhost', 'root', '', 'cardapio_online');
     }
@@ -10,7 +10,7 @@
      {
             die("Erro ao conectar ao banco de dados!");
      }
-    */
+    
     $router = new RouterController();
     $router->process(array($_SERVER['REQUEST_URI']));
     $router->renderView();
