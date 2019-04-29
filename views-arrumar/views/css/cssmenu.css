@@ -1,0 +1,22 @@
+/* css */
+        
+		.card
+		{
+            margin: 0px auto;
+            width: 60%;
+		}
+		.card-body{
+            background-color:#f4f4f4;
+        }
+		.pedir {
+			font-size: 20px;
+			margin-left: 140px;
+		}
+		.garcom {
+			font-size: 15px;
+			margin-left: 280px;
+        }
+		.title-menu{
+			border: 1px solid green;
+			border-radius: 5px;
+		}

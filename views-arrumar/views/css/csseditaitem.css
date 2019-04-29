@@ -1,0 +1,14 @@
+/* css */
+
+        .radio-button
+        {
+            margin-left: 130px;
+        }
+		.card
+		{
+            margin: 0px auto;
+            width : 60%;
+		}
+		.card-body{
+            background-color: #f4f4f4;
+        }

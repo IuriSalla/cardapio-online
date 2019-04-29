@@ -1,0 +1,45 @@
+/* css */
+
+		.card
+		{
+            margin: 0px auto;
+            width : 60%;
+		}
+        .card-body
+        {
+            background-color: #f4f4f4;
+        }
+        .editar-cardapio 
+        {
+            font-size: 15px;
+        }
+        .cadastrar-item 
+        {
+            font-size  : 20px;
+            margin-left: 80px;
+            width: 200px;    
+        }
+        .voltar 
+        {
+        font-size  : 15px;
+        margin-left: 80px;
+        width: 200px;
+        }
+        .buscar-func 
+        {
+            font-size  : 15px;
+            margin-left: 80px;
+            width: 200px;                
+        }
+        .cadastrar-func 
+        {
+            font-size  : 15px;
+            margin-left: 80px;
+            width: 200px;                
+        }
+
+        .title-menu
+        {
+            border       : 1px solid green;
+            border-radius: 5px;
+        }

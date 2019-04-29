@@ -1,0 +1,58 @@
+/* css */
+        body
+		{
+			background-color: #f4f4f4;
+        }
+        h1
+        {
+            text-align : center;
+            font-family: 'Cookie', cursive;
+            color      : #6B8E23;
+        }
+		.card
+		{
+            margin: 0px auto;
+            width : 60%;
+		}
+        .card-body
+        {
+            background-color: #f4f4f4;
+        }
+        section
+        {
+            margin-top: 80px;
+        }
+        .editar-cardapio 
+        {
+            font-size: 15px;
+        }
+        .cadastrar-item 
+        {
+            font-size  : 20px;
+            margin-left: 80px;
+            width: 200px;    
+        }
+        .voltar 
+        {
+        font-size  : 15px;
+        margin-left: 80px;
+        width: 200px;
+        }
+        .buscar-func 
+        {
+            font-size  : 15px;
+            margin-left: 80px;
+            width: 200px;                
+        }
+        .cadastrar-func 
+        {
+            font-size  : 15px;
+            margin-left: 80px;
+            width: 200px;                
+        }
+
+        .title-menu
+        {
+            border       : 1px solid green;
+            border-radius: 5px;
+        }

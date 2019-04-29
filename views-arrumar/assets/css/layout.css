@@ -1,0 +1,58 @@
+*{
+	margin:0px;
+}
+body{
+	background-color:#f4f4f4;
+}
+h1{
+    text-align: center;
+    font-family: 'Cookie', cursive;
+    color: #6B8E23;
+}
+.cabecalho{
+	height:90px;
+}
+.card{
+	margin: 0px auto;
+	width: 100%;
+}
+.card-body{
+	background-color:#f4f4f4;
+}
+
+/* pedido cliente */
+.voltar 
+{
+	font-size  : 20px;
+	margin-left: 2px;
+}
+.concluir 
+{
+	font-size  : 20px;
+	margin-left: 168px;
+	
+}
+.total
+{
+	text-align   : center;
+	font-family  : 'Cookie', cursive;
+	border       : 1px solid green;
+	border-radius: 5px;
+	color        : rgb(165, 0, 0);
+}
+.title-observacao
+{
+	text-indent  : 10px;
+	font-family  : 'Cookie', cursive;
+	border       : 1px solid green;
+	border-radius: 5px;
+	color        : green;
+	margin       : 22px;
+	text-align: start;
+}   
+.title-menu{
+    border       : 1px solid green;
+    border-radius: 5px;
+}
+
+/*finaliza pedido cliente */

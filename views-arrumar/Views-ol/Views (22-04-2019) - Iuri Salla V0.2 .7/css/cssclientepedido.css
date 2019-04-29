@@ -1,0 +1,57 @@
+/* css */
+        body
+		{
+			background-color: #f4f4f4;
+        }
+        h1
+        {
+            text-align : center;
+            font-family: 'Cookie', cursive;
+            color      : #6B8E23;
+        }
+        h4
+        {
+            text-align   : center;
+            font-family  : 'Cookie', cursive;
+            border       : 1px solid green;
+            border-radius: 5px;
+            color        : rgb(165, 0, 0);
+        }
+        .title-observacao
+        {
+            text-indent  : 10px;
+            font-family  : 'Cookie', cursive;
+            border       : 1px solid green;
+            border-radius: 5px;
+            color        : green;
+            margin       : 22px;
+            text-align: start;
+        }
+		.card
+		{
+            margin: 0px auto;
+            width : 60%;
+		}
+        .card-body
+        {
+            background-color: #f4f4f4;
+        }
+        section
+        {
+            margin-top: 80px;
+        }
+    .voltar 
+    {
+		font-size  : 20px;
+		margin-left: 2px;
+    }
+    .concluir 
+    {
+		font-size  : 20px;
+		margin-left: 168px;
+        
+	}
+.title-menu{
+    border       : 1px solid green;
+    border-radius: 5px;
+}
